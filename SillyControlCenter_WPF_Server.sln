@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SillyControlCenter_WPF_Server", "SillyControlCenter_WPF_Server\SillyControlCenter_WPF_Server.csproj", "{ED2E9E02-3840-4A38-85C9-E85520B8D891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED2E9E02-3840-4A38-85C9-E85520B8D891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2E9E02-3840-4A38-85C9-E85520B8D891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2E9E02-3840-4A38-85C9-E85520B8D891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2E9E02-3840-4A38-85C9-E85520B8D891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28FA926A-5BC8-4666-9401-B9ADADA8EBA8}
+	EndGlobalSection
+EndGlobal
